@@ -1,2 +1,0 @@
-# README
-"# aysttu.github.io" 
